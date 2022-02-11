@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './colin_head.png';
 import './App.css';
 
 function App() {
